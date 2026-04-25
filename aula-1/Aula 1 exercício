@@ -12,4 +12,14 @@ import java.util.Scanner;
 
 		System.out.println(valorCompra);
 		new Scanner(System.in);
+ // ou 
+System.out.println ("insira as quantidades das frutras)
+Scanner lojinha = new Scanner (System.in)
+
+Exemplo de comparação
+16 maior que 10 (true)      20 menor que 12 (false)
+26 menor ou igual que 13 (false) 
+31 maior ou igual que 31 (true)
+'a' é igual a 'r' (false)
+
 	}
