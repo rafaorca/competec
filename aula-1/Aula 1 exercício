@@ -22,4 +22,19 @@ Exemplo de comparação
 31 maior ou igual que 31 (true)
 'a' é igual a 'r' (false)
 
+exercício de compar4ação: 
+// comparação e ramificação
+	
+		int minhaIdade = 17;
+		int profIdade = 22;
+		boolean SouMaisNovoQueOProf = minhaIdade < profIdade;
+		System.out.println(souMaisNovoQueOProf);
+		
+		boolean estaChovendo = true;
+		boolean estaRelampejando = true;
+		boolean naoVouSairDeCasa = estaChovendo && estaRelampejando;
+Exercício 2:
+
+
+
 	}
