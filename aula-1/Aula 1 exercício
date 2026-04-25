@@ -1,0 +1,15 @@
+import java.util.Scanner;
+	public static void main(String[] args) {
+	
+    Scanner lojinha = new Scanner (System.in);
+    double precoAbacaxi = 7.30;
+    int quantidadeAbacaxi = lojinha.nextInt();
+    double precoMaca = 2.00;
+    int quantidadeMaca = lojinha.nextInt();
+    double precoPera = 3.00;
+    int quantidadePera = lojinha.nextInt();
+    double valorCompra = precoAbacaxi*quantidadeAbacaxi + precoMaca*quantidadeMaca + precoPera*quantidadePera;
+
+		System.out.println(valorCompra);
+		new Scanner(System.in);
+	}
