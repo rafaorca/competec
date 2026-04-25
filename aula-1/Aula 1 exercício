@@ -34,7 +34,15 @@ exercício de compar4ação:
 		boolean estaRelampejando = true;
 		boolean naoVouSairDeCasa = estaChovendo && estaRelampejando;
 Exercício 2:
+// correção
+		boolean mesmaIdade = idadeA == idadePB
+	boolean maiorQue18 = idadeA > 18;
+	boolean primeiraComparação = mesmaIdade && maiorIdade
+	
+	boolean idadesDiferentes = idadeA != 
+	boolean menorQue12 = idadeB < 12
 
+boolean segundaComparação = idadeDiferente && menorQue12
 
 
 	}
